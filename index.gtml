@@ -1,0 +1,26 @@
+<html>
+	<header>
+		<style>
+			.card-1{
+				border: red 1px solid;
+				padding: 10px;
+				margin:10px;
+				width: 300px;
+			}
+			.card-2{
+				border: blue 1px solid;
+				padding: 10px;
+				margin:10px;
+				max-width: 300px
+			}
+		</style>
+	</header>
+	<body>
+		<div class="card-1">
+			dsjlkjasljdlsajdljaskldjslkdjkasjdsand djkjasdk sadjasld asklkjasdsad haskd jsadkjasdjashdh asj dasjd
+		</div>
+		<div class="card-2">
+			dsjlkjasljdlsajdljaskldjslkdjkasjdsand djkjasdk sadjasld asklkjasdsad haskd jsadkjasdjashdh asj dasjd
+		<div>
+	</body>
+</<html>
